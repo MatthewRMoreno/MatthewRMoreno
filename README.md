@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matthew Moreno</h1>
 <h3 align="center">A passionate full-stack developer from Corpus Christi, TX</h3>
 
-- 🔭 I’m currently working on [venus-rest-blog](https://github.com/MatthewRMoreno/venus-rest-blog)
+- 🔭 I’m currently working on [My developer portfolio](https://github.com/MatthewRMoreno/venus-rest-blog)
 
-- 🌱 I’m currently learning **Thymeleaf**
+- 🌱 I’m currently learning **Python and React**
 
 - ⭐️ My favorite project [starwars-project](https://github.com/MatthewRMoreno/Code-Up-Practice/tree/main/Star%20Wars%20Project)
 
