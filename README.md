@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthew Moreno</h1>
 <h3 align="center">A passionate full-stack developer from Corpus Christi, TX</h3>
 
-- 🔭 I’m currently working on [My developer portfolio](https://github.com/MatthewRMoreno/venus-rest-blog)
+- 🔭 I’m currently working on [My developer portfolio](https://github.com/MatthewRMoreno/my-portfolio)
 
 - 🌱 I’m currently learning **Python and React**
 
