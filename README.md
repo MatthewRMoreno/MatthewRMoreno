@@ -7,7 +7,7 @@
 
 - ⭐️ My favorite project [starwars-project](https://github.com/MatthewRMoreno/Code-Up-Practice/tree/main/Star%20Wars%20Project)
 
-- 👨‍💻 All of my projects are available at [Home Page](https://github.com/MatthewRMoreno)
+- 👨‍💻 All of my projects are available at [My Portfolio]([https://github.com/MatthewRMoreno](https://matthewrmoreno.github.io/))
 
 - 📫 How to reach me **matthew.r.moreno21@gmail.com**
 
