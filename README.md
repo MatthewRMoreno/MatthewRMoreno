@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [My developer portfolio](https://github.com/MatthewRMoreno/my-portfolio)
 
-- 🌱 I’m currently learning **Python and React**
-
 - ⭐️ My favorite project [starwars-project](https://github.com/MatthewRMoreno/Code-Up-Practice/tree/main/Star%20Wars%20Project)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://matthewrmoreno.github.io/)
